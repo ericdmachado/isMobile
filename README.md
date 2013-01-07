@@ -1,2 +1,2 @@
-ConditionalSS
+isMobile
 =============
